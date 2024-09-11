@@ -23,6 +23,8 @@ python vehicles_counting.py
 ```
 Alternatively, you can open the repository using Visual Studio Code and run the script from the integrated terminal.
 
+To close the frame, press the `Esc` key or `Ctrl + C` in the terminal.
+
 ### 4. Updating the Video File Path
 To change the video file path, locate the line in the script that initializes the video capture:
 
