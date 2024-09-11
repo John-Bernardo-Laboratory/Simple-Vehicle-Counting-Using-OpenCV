@@ -19,18 +19,20 @@ pip install numpy opencv-python
 ### Running The Scripts 
 Open the terminal or command prompt in the repository folder by Shift + right-click and selecting "Open Command Window Here" or "Open PowerShell Window Here," then type:
 ```bash
-python vehicle_counting.py
+python vehicles_counting.py
 ```
 Alternatively, you can open the repository using Visual Studio Code and run the script from the integrated terminal.
 
 ### 4. Updating the Video File Path
 To change the video file path, locate the line in the script that initializes the video capture:
+
 ```python
 cap = cv2.VideoCapture("./test/test_1.mp4")
 ```
 Update this line to point to the location of your video file. For example, if your video file is named my_video.mp4 and located in a different directory, modify the line as follows:
+
 ```python
-cap = cv2.VideoCapture("./test/your_video.mp4")
+cap = cv2.VideoCapture("./test/my_video.mp4")
 ```
 Ensure the path you provide is relative to the script's location or use an absolute path.
 
