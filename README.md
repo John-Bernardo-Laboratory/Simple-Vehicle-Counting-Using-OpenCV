@@ -1,7 +1,7 @@
 # Simple Vehicle Counting Using OpenCV
 
 ## Overview
-This application performs vehicle counting using OpenCV, a popular computer vision library. It detects and tracks vehicles moving in a video, distinguishing between vehicles moving up and down. The application also saves images of detected vehicles.
+This application performs vehicle counting using OpenCV, a popular computer vision library. It detects and tracks vehicles moving in a video, distinguishing between vehicles moving up and down.
 
 ## Installation Steps
 
