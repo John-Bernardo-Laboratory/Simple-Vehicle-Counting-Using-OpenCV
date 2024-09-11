@@ -43,13 +43,7 @@ Ensure the path you provide is relative to the script's location or use an absol
 - **Video Not Playing**: Verify that the video file path is correct and the video file is accessible.
 - **Library Errors**: Ensure all required libraries are installed correctly.
 
-
-
-
-
-
-
-
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
   
