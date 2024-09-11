@@ -16,7 +16,7 @@ Install the necessary libraries using `pip`. Open your terminal or command promp
 pip install numpy opencv-python
 ```
 
-### Running The Scripts 
+### 3. Running The Scripts 
 Open the terminal or command prompt in the repository folder by Shift + right-click and selecting "Open Command Window Here" or "Open PowerShell Window Here," then type:
 ```bash
 python vehicles_counting.py
@@ -36,7 +36,7 @@ cap = cv2.VideoCapture("./test/my_video.mp4")
 ```
 Ensure the path you provide is relative to the script's location or use an absolute path.
 
-### Troubleshooting
+### 5. Troubleshooting
 
 - **Video Not Playing**: Verify that the video file path is correct and the video file is accessible.
 - **Library Errors**: Ensure all required libraries are installed correctly.
